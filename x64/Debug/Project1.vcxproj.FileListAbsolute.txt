@@ -1,0 +1,3 @@
+C:\Users\HAO\OneDrive\桌面\十步万度\十步万度\Project1\x64\Debug\Project1.exe
+C:\Users\HAO\OneDrive\桌面\十步万度\十步万度\Project1\x64\Debug\Project1.pdb
+C:\Users\钟先生\Desktop\20级C语言概念实训\project1\x64\Debug\Project1.exe
